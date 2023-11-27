@@ -7,6 +7,6 @@ content =>"
 #Configuration
 host*
 IdentityFile ~/.ssh/school
-PasswordAuthentication no
-",
+PasswordAuthentication no",
+
 }
