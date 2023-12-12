@@ -46,6 +46,6 @@ frontend thabisa.tech
 
 backend thabisa.tech_backend
         balance roundrobin
-        server 64820-web-01 35.175.64.205:80 check
-        server 64820-web-02 54.89.182.68 check
+        server 331574-web-01 35.175.64.205:80 check
+        server 331574-web-02 54.89.182.68 check
 
